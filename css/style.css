@@ -3545,7 +3545,7 @@ h3 {
 .creative_blog_area::after {
   position: absolute;
   background: #f5a60a;
-  height: 50%;
+  height: 57%;
   width: 100%;
   content: '';
   top: 0;
@@ -5401,13 +5401,13 @@ h6 {
 
 /* line 28, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_blog.scss */
 .single-blog:hover {
-  box-shadow: 0px 10px 20px 0px rgba(42, 34, 123, 0.1);
+  box-shadow: 0px 20px 20px 0px rgba(42, 34, 123, 0.1);
 }
 
 /* line 32, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_blog.scss */
 .single-blog .thumb {
   overflow: hidden;
-  position: relative;
+  position: relative ;
 }
 
 /* line 36, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_blog.scss */
@@ -5416,8 +5416,8 @@ h6 {
   position: absolute;
   left: 0;
   top: 0;
-  width: 100%;
-  height: 100%;
+  width:100%;
+  height:;
   background: #000;
   opacity: 0;
   -webkit-transition: 0.5s;
